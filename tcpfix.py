@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 import sys, re
 from elftools.elf.elffile import ELFFile
 DEBUG = False
